@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "END",
+  "base_artist": "THE AGUL",
+  "createdAt": "2025-12-02T09:55:42.998058Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "At the End of a Bar",
+      "artist": "Chris Young feat. Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/01_At_the_End_of_a_Bar_Chris_Young_feat._Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "At the End of a Bar",
+      "artist": "Chris Young",
+      "has_synced": true,
+      "path": "select/02_At_the_End_of_a_Bar_Chris_Young.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rainbow's End",
+      "artist": "Amanda Palmer, Edward Ka-Spel",
+      "has_synced": false,
+      "path": "select/03_Rainbow's_End_Amanda_Palmer,_Edward_Ka-Spel.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rainbow's End",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/04_Rainbow's_End_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Break Up in the End",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/05_Break_Up_in_the_End_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "End Of The Line",
+      "artist": "Dr. John feat. Aaron Neville",
+      "has_synced": true,
+      "path": "select/06_End_Of_The_Line_Dr._John_feat._Aaron_Neville.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "End Of The Line",
+      "artist": "Dr. John",
+      "has_synced": true,
+      "path": "select/07_End_Of_The_Line_Dr._John.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "End Up With You",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/08_End_Up_With_You_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Don't Want This Night To End",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/09_I_Don't_Want_This_Night_To_End_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Without End, Amen",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/10_Love_Without_End,_Amen_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Without End, Amen (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/11_Love_Without_End,_Amen_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Without End, Amen (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/12_Love_Without_End,_Amen_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Off The Deep End",
+      "artist": "Priscilla Block",
+      "has_synced": true,
+      "path": "select/13_Off_The_Deep_End_Priscilla_Block.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Only on Days That End in \"Y\"",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/14_Only_on_Days_That_End_in__Y_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Only on Days That End in \"Y\" (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/15_Only_on_Days_That_End_in__Y__(Album_Version)_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Till the End",
+      "artist": "Vern Gosdin",
+      "has_synced": true,
+      "path": "select/16_Till_the_End_Vern_Gosdin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "END",
+      "artist": "THE AGUL",
+      "has_synced": false,
+      "path": "select/pl_01_END_THE_AGUL.txt"
+    }
+  ]
+}
